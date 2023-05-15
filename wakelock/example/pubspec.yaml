@@ -40,5 +40,3 @@ dependency_overrides:
     path: ../../wakelock_platform_interface
   wakelock_web:
     path: ../../wakelock_web
-  wakelock_windows:
-    path: ../../wakelock_windows
